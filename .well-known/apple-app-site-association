@@ -1,13 +1,10 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appIDs": ["H89TCF3WS2.com.bondvisor.app"],
-        "components": [
-          {
-            "/": "/invite/*"
-          }
-        ]
+        "appID": "H89TCF3WS2.com.bondvisor.app",
+        "paths": ["/invite/*"]
       }
     ]
   }
